@@ -1,0 +1,11 @@
+/Users/liz/Projects/Lab1.cs/Lab1.cs/bin/Debug/netcoreapp2.1/Lab1.cs.deps.json
+/Users/liz/Projects/Lab1.cs/Lab1.cs/bin/Debug/netcoreapp2.1/Lab1.cs.runtimeconfig.json
+/Users/liz/Projects/Lab1.cs/Lab1.cs/bin/Debug/netcoreapp2.1/Lab1.cs.runtimeconfig.dev.json
+/Users/liz/Projects/Lab1.cs/Lab1.cs/bin/Debug/netcoreapp2.1/Lab1.cs.dll
+/Users/liz/Projects/Lab1.cs/Lab1.cs/bin/Debug/netcoreapp2.1/Lab1.cs.pdb
+/Users/liz/Projects/Lab1.cs/Lab1.cs/obj/Debug/netcoreapp2.1/Lab1.cs.csprojAssemblyReference.cache
+/Users/liz/Projects/Lab1.cs/Lab1.cs/obj/Debug/netcoreapp2.1/Lab1.cs.csproj.CoreCompileInputs.cache
+/Users/liz/Projects/Lab1.cs/Lab1.cs/obj/Debug/netcoreapp2.1/Lab1.cs.AssemblyInfoInputs.cache
+/Users/liz/Projects/Lab1.cs/Lab1.cs/obj/Debug/netcoreapp2.1/Lab1.cs.AssemblyInfo.cs
+/Users/liz/Projects/Lab1.cs/Lab1.cs/obj/Debug/netcoreapp2.1/Lab1.cs.dll
+/Users/liz/Projects/Lab1.cs/Lab1.cs/obj/Debug/netcoreapp2.1/Lab1.cs.pdb
